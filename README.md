@@ -2,7 +2,7 @@
 
 ## 🚀 Heroku Deployment
 ###### Click the button below to deploy on Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mertece/uyedizla)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mertece9/uyedizla)
 
 ## 🚀 Okteto Deployment
 ###### Click the button below to deploy on Okteto!
